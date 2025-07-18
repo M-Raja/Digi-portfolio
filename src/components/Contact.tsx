@@ -176,7 +176,7 @@ const Contact = () => {
                         onChange={handleInputChange}
                         required
                         className="bg-input border-border focus:border-primary focus:ring-primary"
-                        placeholder="raja.madhavann@gmail.com"
+                        placeholder=""
                       />
                     </div>
                   </div>
